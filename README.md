@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ARGI-BERRI/argi-berri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Nice to meet you / Good to see you!
 
-Here are some ideas to get you started:
+### Who am I 🤔
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am ARGIA. The word *argia* is a Basque word and it means *light*.  
+FYI: Argi Berri means ✨*New Light*✨.
+
+I'm currently learning Java/Kotlin, Go, and Rust.  
+And I am interested in CI/CD, Automation, and Collaboration.
+
+### Contact 👀
+
+At this time, there's no way to contact me. Sorry!
